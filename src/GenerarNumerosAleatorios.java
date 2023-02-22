@@ -3,6 +3,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Random;
 
+//user @chech
+
 public class GenerarNumerosAleatorios {
 
     public static void main(String[] args) {
